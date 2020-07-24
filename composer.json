@@ -1,0 +1,16 @@
+{
+    "name": "emmanuelshekinah/paginate",
+    "type": "library",
+    "description": "Your package description goes here",
+    "keywords": ["Emmanuel","Shekinah","Laravel","Pagination"],
+    "homepage": "https://emmanuelshekinah.github.io",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emmanuel Shekinah",
+            "email": "es.shekinah@gmail.com",
+            "homepage": "http://seld.be",
+            "role": "Developer"
+        }
+    ]
+}
